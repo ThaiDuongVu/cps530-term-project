@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/cps530-term-project/static/css/main.f0004050.chunk.css",
-    "main.js": "/cps530-term-project/static/js/main.7a94a638.chunk.js",
-    "main.js.map": "/cps530-term-project/static/js/main.7a94a638.chunk.js.map",
+    "main.css": "/cps530-term-project/static/css/main.6c28700d.chunk.css",
+    "main.js": "/cps530-term-project/static/js/main.0a3d00df.chunk.js",
+    "main.js.map": "/cps530-term-project/static/js/main.0a3d00df.chunk.js.map",
     "runtime-main.js": "/cps530-term-project/static/js/runtime-main.74484ce5.js",
     "runtime-main.js.map": "/cps530-term-project/static/js/runtime-main.74484ce5.js.map",
     "static/js/2.8fbee87b.chunk.js": "/cps530-term-project/static/js/2.8fbee87b.chunk.js",
     "static/js/2.8fbee87b.chunk.js.map": "/cps530-term-project/static/js/2.8fbee87b.chunk.js.map",
     "index.html": "/cps530-term-project/index.html",
-    "static/css/main.f0004050.chunk.css.map": "/cps530-term-project/static/css/main.f0004050.chunk.css.map",
+    "static/css/main.6c28700d.chunk.css.map": "/cps530-term-project/static/css/main.6c28700d.chunk.css.map",
     "static/js/2.8fbee87b.chunk.js.LICENSE.txt": "/cps530-term-project/static/js/2.8fbee87b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.74484ce5.js",
     "static/js/2.8fbee87b.chunk.js",
-    "static/css/main.f0004050.chunk.css",
-    "static/js/main.7a94a638.chunk.js"
+    "static/css/main.6c28700d.chunk.css",
+    "static/js/main.0a3d00df.chunk.js"
   ]
 }
