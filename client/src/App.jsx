@@ -6,6 +6,8 @@ import NodeSummary from './NodeSummary';
 import ReactInstallTutorial from './ReactInstallTutorial';
 import NodeInstallTutorial from './NodeInstallTutorial';
 import ImageRandomizer from './ImageRandomizer';
+import Conclusion from './Conclusion';
+import Credits from './Credits';
 
 const App = () => {
   return (
@@ -17,6 +19,8 @@ const App = () => {
         <Route path='/react-install-tutorial' element={<ReactInstallTutorial />}/>
         <Route path='/node-install-tutorial' element={<NodeInstallTutorial />}/>
         <Route path='/image-randomizer' element={<ImageRandomizer />}/>
+        <Route path='/conclusion' element={<Conclusion />} />
+        <Route path='/credits' element={<Credits />} />
         {/* Add 404 handler page */}
       </Routes>
     </HashRouter>

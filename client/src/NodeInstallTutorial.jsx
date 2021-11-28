@@ -71,6 +71,9 @@ const NodeInstallTutorial = () => {
                 <code>node -v</code><br />
                 The system should display the Node.js version installed on your system. You can do the same for NPM: <br />
                 <code>npm -v</code>
+                <figure>
+                  <img src={process.env.PUBLIC_URL + '/images/cmdinstall.jpg'} alt='CMD install' />
+                </figure>
               </p>
             </p>
             <p>
