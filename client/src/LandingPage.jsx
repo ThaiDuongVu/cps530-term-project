@@ -18,7 +18,7 @@ const LandingPage = () => {
         <div className='col-6'>
           <hr />
           <p>
-            This website is the mian entry point of the final term project of CPS 530 - Web Systems Development of Ryerson University Fall 2021.
+            This website is the main entry point of the final term project of CPS 530 - Web Systems Development of Ryerson University Fall 2021.
             <br />
             <br />
             The demonstration page is located <a href='#/image-randomizer'>here</a>.
